@@ -150,7 +150,7 @@ https://user-images.githubusercontent.com/59617056/197835377-0b1cbb03-8bf1-459d-
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/jessicastewart021/typescript-vue2-started](https://github.com/jessicastewart021/typescript-vue2-starter)
+Project Link: [https://github.com/jessicastewart021/typescript-vue2-starter](https://github.com/jessicastewart021/typescript-vue2-starter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
